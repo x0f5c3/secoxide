@@ -1,4 +1,4 @@
-workspace = { members = ["crates/pki", "crates/secoxide_api", "crates/secoxide_crypto", "crates/secoxide_db"] }
+workspace = { members = ["crates/pki", "crates/secoxide_agent", "crates/secoxide_api", "crates/secoxide_crypto", "crates/secoxide_db"] }
 [package]
 name = "secoxide"
 version = "0.1.0"
